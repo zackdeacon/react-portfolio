@@ -63,16 +63,6 @@ color: #c1cac2;
 .card-p {
     margin-top: 10px;
 }
-.parallax {
-    background: url("assets/parallax_2.jpg") no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 400px;
-    
-}
-.row-parallax {
-    padding-top: 250px;
-}
 .col-adj {
     margin-bottom: 20px;
 }
