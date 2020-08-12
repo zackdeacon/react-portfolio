@@ -8,7 +8,7 @@ export default function project(props) {
         <div className="card card-p">
           <h5 className="card-header">{props.title}</h5>
           <a href={props.projectLink} target="_blank">
-          <img src={props.pic} className="card-img-top project-card-pic picSize" alt={props.alt}></img>
+          <img src={props.pic} className="card-img-top project-card-pic picSize img-fluid" alt={props.alt}></img>
           </a>
           <div className="card-footer card-footer-height">
             <p>{props.about}</p>
