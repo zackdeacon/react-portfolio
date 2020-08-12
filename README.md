@@ -42,3 +42,6 @@ You can feel free to take a look through the code and/or contact me at the below
 
     
   No tests 
+  
+  
+  ![](src/Assets/Portfolio-README-pic.jpeg)
