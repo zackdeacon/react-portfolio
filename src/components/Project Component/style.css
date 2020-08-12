@@ -1,0 +1,83 @@
+.row {
+    margin-bottom: 10px;
+}
+.my-4 {
+    background-color: #85A88A;
+}
+.card-header {
+    background-color: #343a40;
+    color: #85a88a;
+    text-align: center;
+}
+.btn {
+    color: #85A88A;
+}
+.btn-link {
+    color: #85A88A;  
+}
+.btn.focus, .btn:focus {
+    box-shadow: 0 0 0 0.2rem #85A88A;
+}
+.btn-link:hover {
+color: #c1cac2;
+}
+.card-body {
+    background-color: #343a40;
+    color: #85A88A;
+}
+.card {
+    border: 1px solid #85A88A;
+}
+.portfolio-header {
+    text-align: center;
+    color: #343a40;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+}
+.card-title {
+    font-weight: bold;
+    color: white;
+}
+.card-text {
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.btn1 {
+    color: #343a40;
+    font-weight: bold;
+    background-color: #85a88a;
+    border: 1px solid #c1cac2;
+}
+.btn1:hover {
+    background-color: #c1cac2;
+}
+.card-footer {
+    background-color: #343a40;
+    font-size: smaller;
+    color: #85A88A;
+}
+.card-p {
+    margin-top: 10px;
+}
+.col-adj {
+    margin-bottom: 20px;
+}
+.card-footer-height {
+    min-height: 300px;
+}
+.Github-link {
+    color: #85A88A;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.list-inline-item:not(:last-child) {
+    margin-right: 0rem;
+}
+.picSize {
+    height: 175px;
+    width: 325px;
+}
