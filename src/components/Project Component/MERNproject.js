@@ -2,7 +2,7 @@ import React from 'react'
 import "./style.css"
 import { Link } from 'react-router-dom'
 
-export default function project(props) {
+export default function MERNProject(props) {
     return (
         <div className="col-sm-5">
         <div className="card card-p">
@@ -12,7 +12,8 @@ export default function project(props) {
           </a>
           <div className="card-footer card-footer-height">
             <p>{props.about}</p>
-            <a href={props.github} target="_blank" className="btn btn1 contactSpacing btn-center">{props.githubLink}</a>
+            <a href={props.githubFrontEnd} target="_blank" className="btn btn1 contactSpacing mernbtn1">{props.githubLinkFrontEnd}</a>
+            <a href={props.githubBackEnd} target="_blank" className="btn btn1 contactSpacing mernbtn2">{props.githubLinkBackEnd}</a>
           </div>
         </div>
       </div>
