@@ -35,6 +35,15 @@ export default function Portfolio() {
             pic={require("../../Assets/MixMe2.jpeg")}
             projectLink="https://vinavarghese.github.io/ProjectMixMe/"
             />
+            <Project title="Mini Pokemong Card Game!"
+            about="This is a fairly simple Pokemon card mini game built in React that has some fun parts to it. I have used CSS Animate and CSS hover for some fun animation tricks and have borrowed the pictures from the pokemon API. There is some logic created for the game component and different use of components and props to get the desired effects. The game is very simple, just click the 'Battle!' button and the two hands are randomly assigned some pokemon. The two hands total EXP is calculated and the winner is shown on the screen. The app is mobile responsive as well."
+            githubLink="Github Repo"
+            github="https://github.com/zackdeacon/pokemon-react"
+            alt="Pokemon Game Image"
+            pic={require("../../Assets/Pokemon.jpeg")}
+            projectLink="https://pkmn-mini-game.herokuapp.com/"
+            />
+
             <Project title="Quiz app!"
             about="This is an quiz game that I developed! It will prompt you through a series of 5 questions and it has a timer that will end the game when time runs out. Once you have completed all of the questions, the remaining time will become your score. Feel free to click the picture to check it out and let me know any feedback you may have. Have fun!"
             githubLink="Github Repo"
