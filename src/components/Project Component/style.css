@@ -62,6 +62,8 @@ color: #c1cac2;
 }
 .card-p {
     margin-top: 10px;
+    min-height: 600px;
+    background-color: #343a40;
 }
 .col-adj {
     margin-bottom: 20px;

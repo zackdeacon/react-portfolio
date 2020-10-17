@@ -36,7 +36,7 @@ export default function Portfolio() {
             projectLink="https://vinavarghese.github.io/ProjectMixMe/"
             />
             <Project title="Mini Pokemon Card Game!"
-            about="This is a fairly simple Pokemon card mini game built in React that has some fun parts to it. I have used CSS Animate and CSS hover for some fun animation tricks and have borrowed the pictures from the pokemon API. There is some logic created for the game component and different use of components and props to get the desired effects. The game is very simple, just click the 'Battle!' button and the two hands are randomly assigned some pokemon. The two hands total EXP is calculated and the winner is shown on the screen. The app is mobile responsive as well."
+            about="This is a simple Pokemon card mini game built in React that has some fun parts to it. I have used CSS Animate and CSS hover and have borrowed the pictures from the pokemon API. The game is very simple, just click the 'Battle!' button and the two hands are randomly assigned pokemon. The two hands total EXP is calculated and the winner is shown on the screen. The app is mobile responsive as well."
             githubLink="Github Repo"
             github="https://github.com/zackdeacon/pokemon-react"
             alt="Pokemon Game Image"
@@ -70,8 +70,8 @@ export default function Portfolio() {
             pic={require("../../Assets/react-employee-directory.jpeg")}
             projectLink="https://mighty-savannah-44325.herokuapp.com/"
             />
-            <Project title="React Dice Roller!"
-            about="This is a very siimple app built in React that incorporates the use of state, some CSS animations and a little bit of logic. If you ever find yourself in need of dice again in the future, look no further this app now has you covered! Enjoy!"
+            <Project title="React Utility App!"
+            about="This is built in React and it incorporates the use of state, some CSS animations, React router, and a bit of logic. This app currently has two main functions, A dice roller and a coin flipper. I plan to continue to add a few more things to make this a fun simple utility app in case you ever need it! Enjoy!"
             githubLink="Github Repo"
             github="https://github.com/zackdeacon/React-Dice-Roller"
             alt="React Dice Image"
