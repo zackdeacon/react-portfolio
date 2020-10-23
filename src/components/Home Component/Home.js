@@ -149,6 +149,7 @@ export default function Home() {
                                     <a href={require("../../Assets/Yellow belt certificate .pdf")} className="list-group-item list-group-item-action" target="_blank"> <img src="https://www.pngfind.com/pngs/m/507-5072232_certification-icon-hd-png-download.png" alt="resume icon" className="resume img-fluid"></img>Lean Six Sigma</a>
                                     <a href={require("../../Assets/Google IT Cert.pdf")} className="list-group-item list-group-item-action" target="_blank"> <img src="https://www.pngfind.com/pngs/m/507-5072232_certification-icon-hd-png-download.png" alt="Letters of reference" className="reference img-fluid"></img> Google IT</a>
                                     <a href={require("../../Assets/situational leadership certification.pdf")} className="list-group-item list-group-item-action" target="_blank"> <img src="https://www.pngfind.com/pngs/m/507-5072232_certification-icon-hd-png-download.png" alt="LinkedIn" className="linkedin img-fluid"></img> Ken Blanchard</a>
+                                    <a href={require("../../Assets/bootcampCert.jpeg")} className="list-group-item list-group-item-action" target="_blank"> <img src="https://www.pngfind.com/pngs/m/507-5072232_certification-icon-hd-png-download.png" alt="bootcamp certification icon" className="resume img-fluid"></img>Full Stack Bootcamp</a>
                                 </div>
                             </div>
                         </div>
