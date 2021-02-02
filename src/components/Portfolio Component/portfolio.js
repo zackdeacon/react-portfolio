@@ -27,6 +27,14 @@ export default function Portfolio() {
             pic={require("../../Assets/PureCloud.jpeg")}
             projectLink="https://purecloudone.herokuapp.com/"
             />
+            <Project title="React Color Palette App!"
+            about="This app will allow you to create and customize beautiful color palettes at the touch of your fingers! Built entirely in React using Material-UI, React-Sortable, React Router, Chroma-JS, RC-Slider, JSS, local storage and more. A lot of styling an deffort was put in to making sure that this app is completely mobile responsive as well. Check it out and let me know what you think!"
+            githubLink="Github Repo"
+            github="https://github.com/zackdeacon/react-color-project"
+            alt="Color Palette Image"
+            pic={require("../../Assets/color-palette.jpeg")}
+            projectLink="https://zacks-color-app.herokuapp.com/"
+            />
             <Project title="MixMe app!"
             about="MixMe is an interactive platform that allows users to browse their favorite cocktails, search cocktail recipes by ingredient, play an interactive game to learn about their favorite cocktails, and find bars in their local area that serve the cocktails. MixMe uses Javascript, Foundation (CSS), CSS shake, and two APIs to source data. Feel free to click the picture to check it out and let me know any feedback you may have!"
             githubLink="Github Repo"
@@ -43,7 +51,6 @@ export default function Portfolio() {
             pic={require("../../Assets/Pokemon.jpeg")}
             projectLink="https://pkmn-mini-game.herokuapp.com/"
             />
-
             <Project title="Quiz app!"
             about="This is an quiz game that I developed! It will prompt you through a series of 5 questions and it has a timer that will end the game when time runs out. Once you have completed all of the questions, the remaining time will become your score. Feel free to click the picture to check it out and let me know any feedback you may have. Have fun!"
             githubLink="Github Repo"
